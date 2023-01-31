@@ -1,1 +1,1 @@
-# LocalTextFileFetch
+### 로컬 txt 파일을 fetch로 불러와서 사용하는 방법.
